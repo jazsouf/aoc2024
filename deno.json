@@ -1,6 +1,6 @@
 {
   "tasks": {
-    "aoc": "deno run -R 07.ts"
+    "aoc": "deno run -R 08.ts"
   },
   "imports": {
     "@std/assert": "jsr:@std/assert@1"
